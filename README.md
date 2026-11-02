@@ -17,6 +17,13 @@
 </div>
 
 ---
+<img width="929" height="518" alt="face1" src="https://github.com/user-attachments/assets/c91fb3b4-9d35-4429-a866-58749fcf7ae8" />
+<img width="953" height="521" alt="dhashboard3" src="https://github.com/user-attachments/assets/1abc8e70-a5f0-4e62-b84a-e21b62ae0060" />
+<img width="927" height="565" alt="dashboard1" src="https://github.com/user-attachments/assets/c7aa6bd8-85eb-402c-8b5e-8dbe64f6f155" />
+
+<img width="944" height="533" alt="dhashboard2" src="https://github.com/user-attachments/assets/4f7b28f9-802a-46fc-bfa1-68e0c4751b19" />
+
+
 
 ## ⚡ Architectural Pipeline
 
